@@ -19,7 +19,7 @@ import org.springframework.web.multipart.support.StandardServletMultipartResolve
 public class ShopApplication  {
 
 	public static void main(String[] args) {
-		System.out.println("test");
+		System.out.println("test111");
 		SpringApplication.run(ShopApplication.class,args);
 	}
 
